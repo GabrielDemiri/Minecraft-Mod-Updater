@@ -18,4 +18,4 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/minecraft-mod-updater.git
+   git clone https://github.com/gabrieldemiri/minecraft-mod-updater

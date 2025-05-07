@@ -15,7 +15,12 @@
 
 ## Installation
 
-1. Clone the repository:
+1. Open the .exe file in "Relases":
+2. You are all done!
 
-   ```bash
-   git clone https://github.com/gabrieldemiri/minecraft-mod-updater
+## Installation (Alternative)
+1. Install Python 3 or superior
+2. Download mc_mod_updater.py
+3. Open a cmd (on the location where is your file)
+4. Put the command "python3 mc_mod_updater.py"
+5. You are all done!
